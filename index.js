@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Clarity Extended</title>
+        <title>Therapist </title>
       </Head>
       <Hero />
       <Features />
